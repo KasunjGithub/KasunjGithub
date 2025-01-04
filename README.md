@@ -1,4 +1,4 @@
-[<img src="https://blog.hyperiondev.com/wp-content/uploads/2018/10/Blog-Gif.gif" alt="MasterHead" style="width:100%; height:10%; object-fit:cover;">]
+[<img src="https://blog.hyperiondev.com/wp-content/uploads/2018/10/Blog-Gif.gif" alt="MasterHead" style="width:100%; height:20px; object-fit:cover;">]
 <h1 align="center">Hi 👋, I'm Kasun Jeewantha</h1>
 <h3 align="center">A undergraduate student in University Of Jaffna from Sri Lanka</h3>
 
