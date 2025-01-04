@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.hyperiondev.com/wp-content/uploads/2018/10/Blog-Gif.gif)](https://rishavchanda.io)
+[![MasterHead](https://blog.hyperiondev.com/wp-content/uploads/2018/10/Blog-Gif.gif)])
 <h1 align="center">Hi 👋, I'm Kasun Jeewantha</h1>
 <h3 align="center">A undergraduate student in University Of Jaffna from Sri Lanka</h3>
 
