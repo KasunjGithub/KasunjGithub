@@ -17,7 +17,7 @@
 - 📫 How to reach me **kasunjeewantha31@gmail.com**
 
 - ⚡ Fun fact **I am funny and friendly**
-  <hr></hr>
+<hr></hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kasun-jeewantha-5a877731a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasun-jeewantha-5a877731a" height="30" width="40" /></a>
